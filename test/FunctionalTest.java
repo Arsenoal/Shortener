@@ -2,6 +2,7 @@ package shorterner.test;
 
 import org.junit.Assert;
 import org.junit.Test;
+import shorterner.Shortener;
 import shorterner.strategy.*;
 
 public class FunctionalTest extends Assert {
