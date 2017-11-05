@@ -1,4 +1,4 @@
-package shorterner;
+package shorterner.test;
 
 import org.junit.Assert;
 import org.junit.Test;

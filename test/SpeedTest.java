@@ -1,7 +1,9 @@
-package shorterner;
+package shorterner.test;
 
 import org.junit.Assert;
 import org.junit.Test;
+import shorterner.Helper;
+import shorterner.Shortener;
 import shorterner.strategy.HashBiMapStorageStrategy;
 import shorterner.strategy.HashMapStorageStrategy;
 
